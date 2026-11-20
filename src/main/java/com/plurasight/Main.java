@@ -48,5 +48,6 @@ public class Main {
 
         writerbuffered.write(time + " " + action);
         writerbuffered.newLine();
+
     }
 }
